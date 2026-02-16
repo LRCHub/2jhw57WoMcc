@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "革命より抜粋",
+  "base_artist": "UMEILO",
+  "createdAt": "2026-02-16T06:13:20.350470Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "革命より抜粋",
+      "artist": "UMEILO",
+      "has_synced": false,
+      "path": "select/pl_01_革命より抜粋_UMEILO.txt"
+    }
+  ]
+}
